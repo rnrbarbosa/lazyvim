@@ -4,9 +4,6 @@
 return {
 
 
-  {
-    "michaelb/sniprun",
-  },
 
   { "ellisonleao/gruvbox.nvim" },
   -- add catppuccin
